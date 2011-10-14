@@ -1,0 +1,31 @@
+<?php
+$page_slug = 'thanks';
+$page_title = 'Thanks';
+$content = <<<EOD
+
+<h2>Why we need sponsorship</h2>
+
+<p>We go to great lengths to run a professional, welcoming event. That includes providing a sponsored lunch for attendees and letting attendees know that they are part of a large, welcoming professional Python community. We also run wrap-up events so that organizers can discuss what to improve next time.</p>
+
+<p>This takes time, space, and money. We're grateful to our sponsors so far who have made this possible.</p>
+
+<h2>Food and space</h2>
+
+<ul>
+<li>MIT</li>
+<li>Google</li>
+<li>HubSpot</li>
+<li>Microsoft NERD</li>
+</ul>
+
+<h2>Can you or your company contribute?</h2>
+
+<p>We are looking for new sponsors to help us maintain the energy in Boston and spread the workshop to the rest of the world.</p>
+
+<p>Can you or your company provide support to help us do that?
+<a href="https://openhatch.org/contact/">Get in touch</a>!</p>
+
+EOD;
+
+require_once("template.php");
+?>

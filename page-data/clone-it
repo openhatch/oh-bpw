@@ -1,0 +1,36 @@
+<?php
+$page_slug = 'clone-it';
+$page_title = 'Run your own';
+$content = <<<EOD
+
+<h2>Do diversity outreach</h2>
+
+<p>Python programming user groups are often overwhelmingly male. The success of our Workshop shows that you can change this.</p>
+
+<p>We believe our success hinges on:</p>
+
+<ul>
+<li>A pool of helpful volunteers</li>
+<li>Practical, well-tested projects</li>
+<li>Solid documentation for how to set up a development environment</li>
+<li>The full support of the Boston Python Meetup</li>
+</ul>
+
+<p>You can read more of the <a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">lessons we have learned</a> in an article on Geek Feminism.</p>
+
+<h2>Use our materials</h2>
+
+<p>We encourage you to re-use the workshop's teaching materials. Our laptop setup instructions are battle-tested instructions for installing Python on Windows, Mac, and Linux systems. Our lecture material introduces basic concepts, and our projects provide hands-on learning. The material is available for re-use under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons by-sa license</a>.</p>
+
+<p>To find the materials, go to the <a href="events/">list of past events</a> and find the most recent workshop. Each workshop links to the materials we used.</p>
+
+<h2>Get in touch</h2>
+
+<p>Every programming community is different. We'd love to help you bring our success to your part of the world.</p>
+
+<p>If you want to start a workshop like this in <em>your</em> city, <a href="https://openhatch.org/contact/">get in touch</a>!</p>
+
+EOD;
+
+require_once("template.php");
+?>

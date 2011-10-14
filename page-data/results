@@ -1,0 +1,34 @@
+<?php
+$page_slug = 'results';
+$page_title = 'Results';
+$content = <<<EOD
+
+<h2>Results</h2>
+
+<p>The event has resulted in <strong>lasting diversity improvements</strong>
+for the Boston Python Meetup. In January 2011, when we began organizing the event,
+about 2% of Meetup attendees were women. Since then, 15% or more of our attendees are women. The meetup group's membership has grown to over 1000 people.</p>
+
+<h2>In photos</h2>
+
+<p>Asheesh's Flickr <a href="http://www.flickr.com/photos/paulproteus/sets/">contains lots of photos</a> from the events.</p>
+
+<h2>Other efforts</h2>
+
+<p>Since Asheesh <a href="http://python.mirocommunity.org/video/4259/pycon-2011-get-new-contributor">spoke about the effort at PyCon 2011</a>, people around the world have started efforts inspired by ours. We've directly collaborated with:</p>
+
+<ul>
+<li>Janina at Montreal Python
+<li>Dana at PyStar Philadelphia</li>
+<li>Audrey at PyLadies LA</li>
+<li>Lukas at PyStar San Francisco</li>
+<li>Yuvi Masory at Scalathon</li>
+</ul>
+
+<p>If you want to start a workshop like this in <em>your</em> city, <a href="https://openhatch.org/contact/">get in touch</a>!</p>
+
+
+EOD;
+
+require_once("template.php");
+?>

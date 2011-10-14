@@ -1,0 +1,28 @@
+<?php
+$page_slug = 'about';
+$page_title = 'About';
+$content = <<<EOD
+
+<h2>Purpose</h2>
+
+<p>Our goal is to increase Python community diversity through programming outreach events. Basic programming skills are so empowering and useful that we think everyone should have them. </p>
+
+<p>We strive to:</p>
+
+<ul>
+<li>Show new programmers and the Boston Python community examples of smart, confident, capable programmers of all backgrounds.</li>
+<li>Bring new, awesome, diverse people into local Python programming communities through diversity and outreach events.</li>
+<li>Inspire other people to run their own introductory workshops and outreach events, and to get more user groups thinking about diversity and outreach.</li>
+</ul>
+
+<h2>About OpenHatch</h2>
+
+<p><a href="https://openhatch.org/">OpenHatch</a> is an open source community aiming to help newcomers find their way into free software projects.
+We organize this event because we believe in bringing more people into open communities, and because
+it teaches attendees skills necessary
+to participate in open source.</p>
+
+EOD;
+
+require_once("template.php");
+?>

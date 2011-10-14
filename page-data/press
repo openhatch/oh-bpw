@@ -1,0 +1,22 @@
+<?php
+$page_slug = 'press';
+$page_title = 'Press';
+$content = <<<EOD
+
+<h2>Press</h2>
+
+<p>We're honored to have articles about us in:</p>
+
+<ul>
+<li>Geek Feminism</li>
+<li>The OpenHatch blog</li>
+</ul>
+
+<h2>Help us tell our story</h2>
+
+<p>If you help people learn about technology or diversity, we would love for you to our story with your audience. Very few other diversity efforts provide the <a href="results/">results</a> of our program. <a href="https://openhatch.org/contact/">Drop us a line</a>!</p>
+
+EOD;
+
+require_once("template.php");
+?>
