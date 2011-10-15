@@ -9,7 +9,12 @@ function link_to($path, $name) {
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<base href="file://<?php echo dirname(__FILE__); ?>/public/">
+	<?php $base_href = 'file://' . dirname(__FILE__) . '/public/';
+	if (getenv("BASE_HREF")) {
+	$base_href = getenv("BASE_HREF");
+	}
+	?>
+	<base href="<?php echo $base_href ?>" />
 	<title>Boston Python Workshop: <?php echo $page_title; ?></title>
 	<style type="text/css" media="screen, print, projection">
 	body,
