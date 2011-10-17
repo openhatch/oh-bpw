@@ -16,7 +16,7 @@ function link_to($path, $name) {
 	?>
 	<base href="<?php echo $base_href ?>" />
 	<title>Boston Python Workshop: <?php echo $page_title; ?></title>
-	<style type="text/css" media="screen, print, projection">
+	<style type="text/css" media="screen, print, projection" href="style.css">
 	body,
 	html {
 		margin:0;
@@ -49,6 +49,7 @@ function link_to($path, $name) {
 		float:right;
 		width:560px;
 		background: white;
+padding-top: 15px;
 	}
 	#footer {
 		clear:both;
