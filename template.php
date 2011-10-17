@@ -16,46 +16,7 @@ function link_to($path, $name) {
 	?>
 	<base href="<?php echo $base_href ?>" />
 	<title>Boston Python Workshop: <?php echo $page_title; ?></title>
-	<style type="text/css" media="screen, print, projection" href="style.css">
-	body,
-	html {
-		margin:0;
-		padding:0;
-		color:#000;
-		background:white;
-	}
-	h2 {
-	font-size: 21px;
-	}
-	#sidebar a {
-	color: black;
-	text-decoration: none;
-	}
-	#wrap {
-		width:750px;
-		margin:0 auto;
-	}
-	#header {
-		background:#ddd;
-	display: none;
-	}
-	#sidebar {
-		float:left;
-		width:188px;
-		background:white;
-	position: fixed;
-	}
-	#main {
-		float:right;
-		width:560px;
-		background: white;
-padding-top: 15px;
-	}
-	#footer {
-		clear:both;
-		background:#cc9;
-	}
-	</style>
+	<link rel="stylesheet" type="text/css" media="screen, print, projection" href="style.css" />
 
 </head>
 <body>
