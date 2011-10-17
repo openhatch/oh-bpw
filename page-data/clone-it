@@ -13,7 +13,7 @@ $content = <<<EOD
 <li>A pool of helpful volunteers</li>
 <li>Practical, well-tested projects</li>
 <li>Solid documentation for how to set up a development environment</li>
-<li>The full support of the Boston Python Meetup</li>
+<li>The full support of the Boston Python user group</li>
 </ul>
 
 <p>You can read more of the <a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">lessons we have learned</a> in an article on Geek Feminism.</p>
