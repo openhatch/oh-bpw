@@ -5,16 +5,17 @@ $content = <<<EOD
 
 <h2>Press</h2>
 
-<p>We're honored to have articles about us in:</p>
+<p>We're honored to have been mentioned across the web:</p>
 
 <ul>
-<li>Geek Feminism</li>
-<li>The OpenHatch blog</li>
+<li><a href="http://www.women2.org/roundup-python-outreach-workshops-for-women/">Roundup: Python Outreach Workshops for Women</a> at Women 2.0</li>
+<li><a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">Lessons learned from the Boston Python Workshop, an outreach event for women</a> on Geek Feminism</li>
+<li><a href="http://blogs.gnome.org/marina/2011/10/08/my-ada-lovelace-day-heroines/">My Ada Lovelace Day Heroines</a> at Marina'z Blog</li>
 </ul>
 
 <h2>Help us tell our story</h2>
 
-<p>If you help people learn about technology or diversity, we would love for you to our story with your audience. Very few other diversity efforts provide the <a href="results/">results</a> of our program. <a href="https://openhatch.org/contact/">Drop us a line</a>!</p>
+<p>If you write about technology or diversity, we would love for you to share our story. Read about the event's <a href="results/">results</a>, and <a href="https://openhatch.org/contact/">drop us a line</a>!</p>
 
 EOD;
 
