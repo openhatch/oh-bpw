@@ -40,7 +40,7 @@ $content = <<<EOD
 
 <p>Every programming community is different. We'd love to help you bring our success to your part of the world.</p>
 
-<p>If you want to start a workshop like this in <em>your</em> city, <a href="https://openhatch.org/contact/">get in touch</a>!</p>
+<p>If you want to start a workshop like this in <em>your</em> city, <a href="http://lists.openhatch.org/mailman/listinfo/events">join the OpenHatch Events mailing list</a> and say hello!</p>
 
 EOD;
 
