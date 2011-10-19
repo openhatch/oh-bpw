@@ -1,4 +1,4 @@
-all: public/index.html public/about/index.html public/events/index.html public/results/index.html public/press/index.html public/clone-it/index.html public/thanks/index.html
+all: public/index.html public/about/index.html public/events/index.html public/press/index.html public/clone-it/index.html public/thanks/index.html
 
 clean:
 	@rm public/*.html public/*/*.html
@@ -17,12 +17,6 @@ public/events:
 
 public/events/index.html: template.php page-data/events public/events
 	php page-data/events > public/events/index.html
-
-public/results:
-	mkdir -p public/results
-
-public/results/index.html: template.php page-data/results public/results
-	php page-data/results > public/results/index.html
 
 public/press:
 	mkdir -p public/press

@@ -27,10 +27,8 @@ function link_to($path, $name) {
 		<h2><?php link_to('about/', 'about'); ?></h2>
 		<h2><?php link_to('events/', 'events'); ?></h2>
 		<p>&nbsp;</p>
-		<h2><?php link_to('results/', 'results'); ?></h2>
 		<h2><?php link_to('thanks/', 'thanks'); ?></h2>
 		<h2><?php link_to('press/', 'press'); ?></h2>
-		<p>&nbsp;</p>
 		<h2><?php link_to('clone-it/', 'run your own'); ?></h2>
 	</div>
 	<div id="main">
