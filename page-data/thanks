@@ -3,7 +3,7 @@ $page_slug = 'thanks';
 $page_title = 'Thanks';
 $content = <<<EOD
 
-<h2>Why we need sponsorship</h2>
+<h2>Sponsors</h2>
 
 <p>We go to great lengths to run a professional, welcoming event. That includes providing a sponsored lunch for attendees and letting attendees know that they are part of a large, welcoming professional Python community. We also run wrap-up events so that organizers can discuss what to improve next time.</p>
 
@@ -17,6 +17,10 @@ $content = <<<EOD
 <li>HubSpot</li>
 <li>Microsoft NERD</li>
 </ul>
+
+<h2>Volunteers and attendees</h2>
+
+<p>The Boston Python Workshop is made possible by a huge crew of volunteers. We want to thank our teaching staff, sponsors, and attendees for letting us make a difference in the programming community.</p>
 
 <h2>Can you or your company contribute?</h2>
 

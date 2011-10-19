@@ -30,6 +30,10 @@ $content = <<<EOD
 
 <h2>Past events</h2>
 
+<p>Asheesh's Flickr <a href="http://www.flickr.com/photos/paulproteus/sets/">contains lots of photos</a> from the events.</p>
+
+<p>Here is a list of dates and links to our teaching material:</p>
+
 <ul>
 <li>Sep 30 and Oct 1, at MIT: BPW #4: Friday <a href="https://openhatch.org/wiki/Boston_Python_Workshop_4/Friday">installation and tutorial</a>; Saturday <a href="https://openhatch.org/wiki/Boston_Python_Workshop_4/Saturday_lecture">lecture</a> and <a href="http://openhatch.org/wiki/Boston_Python_Workshop_4/Saturday_projects">project info</a>.
 </li>
@@ -40,11 +44,6 @@ $content = <<<EOD
 <li>March 4 and 5, at Microsoft NERD: BPW #1: Friday <a href="https://openhatch.org/wiki/Boston_Python_workshop/Friday_handout">installation and tutorial</a>; Saturday <a href="https://openhatch.org/wiki/Boston_Python_workshop/Saturday/Lecture_material">lecture</a> and two projects: <a href="https://openhatch.org/wiki/Boston_Python_workshop/Saturday/Web_app_project">Django web app</a> and <a href="https://openhatch.org/wiki/Boston_Python_workshop/Saturday/ColorWall">ColorWall</a>.
 </li>
 </ul>
-
-<h2>In photos</h2>
-
-<p>Asheesh's Flickr <a href="http://www.flickr.com/photos/paulproteus/sets/">contains lots of photos</a> from the events.</p>
-
 
 EOD;
 

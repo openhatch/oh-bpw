@@ -15,7 +15,9 @@ $content = <<<EOD
 
 <h2>Help us tell our story</h2>
 
-<p>If you write about technology or diversity, we would love for you to share our story. Read about the event's <a href="results/">results</a>, and <a href="https://openhatch.org/contact/">drop us a line</a>!</p>
+<p>If you write about technology or diversity, we would love for you to share our story. Read about the event's <a href="about/">results</a>, and <a href="https://openhatch.org/contact/">drop us a line</a>!</p>
+
+<p>You are free to use <a href="http://www.flickr.com/photos/paulproteus/sets/">photos from past events</a> under the Creative Commons license on each photo.</p>
 
 EOD;
 
