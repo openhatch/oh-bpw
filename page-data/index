@@ -3,7 +3,7 @@ $page_slug = 'index';
 $page_title = 'Home';
 $content = <<<EOD
 
-	  <img style="padding-left: 15px;" src="http://farm7.static.flickr.com/6144/5930104827_6effae53d7_o.jpg" width="500">
+	  <img style="padding-left: 15px;" src="images/bpw-photo.jpg" width="500" height="333">
 
 	  <p style="font-size: 200%;">a project-driven introduction to Python for women and their friends</p>
 
