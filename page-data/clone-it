@@ -3,7 +3,7 @@ $page_slug = 'clone-it';
 $page_title = 'Run your own';
 $content = <<<EOD
 
-<h2>Do diversity outreach</h2>
+<h2>You can do diversity outreach</h2>
 
 <p>Python programming user groups are often overwhelmingly male. The success of our Workshop shows that you can change this.</p>
 
@@ -16,7 +16,7 @@ $content = <<<EOD
 <li>The full support of the Boston Python user group</li>
 </ul>
 
-<p>You can read more of the <a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">lessons we have learned</a> in an article on Geek Feminism.</p>
+<p>You can read more of the <a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">lessons we have learned</a> in an article at Geek Feminism.</p>
 
 <h2>How the event has spread</h2>
 
