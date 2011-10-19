@@ -18,6 +18,18 @@ $content = <<<EOD
 
 <p>You can read more of the <a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">lessons we have learned</a> in an article on Geek Feminism.</p>
 
+<h2>How the event has spread</h2>
+
+<p>Since Asheesh <a href="http://python.mirocommunity.org/video/4259/pycon-2011-get-new-contributor">spoke about the effort at PyCon 2011</a>, people around the world have started efforts inspired by ours. We've:</p>
+
+<ul>
+<li>Inspired <a href="http://pystar.org/">PyStar</a> to form and organize outreach events</li>
+<li>Worked with Montreal Python to organize an <a href="http://montrealpython.org/2011/05/a-success-introduction-to-python-for-women/">Introduction to Python for Women</a></li>
+<li>Traveled to Philadelphia to help teach at <a href="http://www.thehacktory.org/?p=1470">PyStar Philadelphia</a></li>
+<li>Inspired the global <a href="http://pyladies.com/">PyLadies</a> effort and collaborated on talk proposals</li>
+<li>Traveled to Scalathon to organize a <a href="http://workshops.railsbridge.org/2011/06/scala-outreach-workshop/">Scala Crash Course for women and their friends</a></li>
+</ul>
+
 <h2>Use our materials</h2>
 
 <p>We encourage you to re-use the workshop's teaching materials. Our laptop setup instructions are battle-tested instructions for installing Python on Windows, Mac, and Linux systems. Our lecture material introduces basic concepts, and our projects provide hands-on learning. The material is available for re-use under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons by-sa license</a>.</p>

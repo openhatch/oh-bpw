@@ -3,7 +3,7 @@ $page_slug = 'about';
 $page_title = 'About';
 $content = <<<EOD
 
-<h2>Purpose</h2>
+<h2>Who and why</h2>
 
 <p>Our goal is to increase Python community diversity through programming outreach events. Basic programming skills are so empowering and useful that we think everyone should have them. </p>
 
@@ -14,6 +14,14 @@ $content = <<<EOD
 <li>Bring new, awesome, diverse people into local Python programming communities through diversity and outreach events.</li>
 <li>Inspire other people to run their own introductory workshops and outreach events, and to get more user groups thinking about diversity and outreach.</li>
 </ul>
+
+<p>Asheesh Laroia, Deborah Nicholson, Christine Spang, and Jessica McKellar were inspired by <a href="http://workshops.railsbridge.org/">the RailsBridge workshops</a> and made the first workshop happen as part of OpenHatch's outreach efforts. Jessica has been the lead organizer for our recent events.</p>
+
+<h2>Results</h2>
+
+<p>The event has resulted in <strong>lasting diversity improvements</strong>
+for the Boston Python user group. In January 2011, when we began organizing the event,
+about 2% of Boston Python attendees were women. Since then, 15% or more of our attendees are women. The group's membership has grown to over 1350 people, making it the second-largest Python user group in the US.</p>
 
 <h2>About OpenHatch</h2>
 

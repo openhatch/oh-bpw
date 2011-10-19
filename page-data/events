@@ -5,6 +5,8 @@ $content = <<<EOD
 
 <h2>Upcoming</h2>
 
+<p>Our audience is women and their friends who have no or limited programming experience. This event is welcoming and respectful of trans women. Men are welcome as guests of women who are attending.</p>
+
 <p>The next Boston Python Workshop (#5) is expected to take place during November. We'll announce it on the Boston Python list, so:</p>
 
 <p style="text-align: center; font-size: 150%;"><a href="http://meetup.bostonpython.com/">Join the Boston Python user group</a></p>
@@ -17,7 +19,6 @@ $content = <<<EOD
 <li>Friday evening: laptop setup</li>
 <li>Saturday morning + afternoon: Python lecture and hands-on, guided project practice</li>
 </ul>
-
 <p>At the end of the workshop, we invite all attendees to Boston Python's monthly project night, an open hack session. Attendees also receive invitations to Boston Python's monthly lecture-style events.</p>
 
 <h2>Volunteers</h2>
@@ -27,9 +28,7 @@ $content = <<<EOD
 
 <p>You can join us! If you want to be friendly to new programmers -- even if you're not yet an experienced programmer -- email our staff list: <a href="mailto:bpw-staff@lists.openhatch.org">bpw-staff@lists.openhatch.org</a>.</p>
 
-<h2>Past</h2>
-
-<p>Event information from the past:</p>
+<h2>Past events</h2>
 
 <ul>
 <li>Sep 30 and Oct 1, at MIT: BPW #4: Friday <a href="https://openhatch.org/wiki/Boston_Python_Workshop_4/Friday">installation and tutorial</a>; Saturday <a href="https://openhatch.org/wiki/Boston_Python_Workshop_4/Saturday_lecture">lecture</a> and <a href="http://openhatch.org/wiki/Boston_Python_Workshop_4/Saturday_projects">project info</a>.
@@ -41,6 +40,11 @@ $content = <<<EOD
 <li>March 4 and 5, at Microsoft NERD: BPW #1: Friday <a href="https://openhatch.org/wiki/Boston_Python_workshop/Friday_handout">installation and tutorial</a>; Saturday <a href="https://openhatch.org/wiki/Boston_Python_workshop/Saturday/Lecture_material">lecture</a> and two projects: <a href="https://openhatch.org/wiki/Boston_Python_workshop/Saturday/Web_app_project">Django web app</a> and <a href="https://openhatch.org/wiki/Boston_Python_workshop/Saturday/ColorWall">ColorWall</a>.
 </li>
 </ul>
+
+<h2>In photos</h2>
+
+<p>Asheesh's Flickr <a href="http://www.flickr.com/photos/paulproteus/sets/">contains lots of photos</a> from the events.</p>
+
 
 EOD;
 
