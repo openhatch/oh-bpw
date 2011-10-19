@@ -23,7 +23,7 @@ function link_to($path, $name) {
 <div id="wrap">
 	<div id="header"><h1><?php echo $page_title; ?></h1></div>
 	<div id="sidebar">
-		<a href="./"><img style="padding-top: 30px; width: 150px;" src="images/bpw-logo.png"></a>
+		<a href="./"><img style="padding-top: 30px; width: 150px; height: 86px;" src="images/bpw-logo.png"></a>
 		<h2><?php link_to('about/', 'about'); ?></h2>
 		<h2><?php link_to('events/', 'events'); ?></h2>
 		<p>&nbsp;</p>
