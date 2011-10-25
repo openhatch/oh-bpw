@@ -40,13 +40,21 @@ a:hover { color: #133755; }
 .right {
     text-align: right;
 }
+ul.nav {
+    display: inline;
+}
 .nav li {
     color: #fff;
     display: inline;
     padding-right: 15px;
-    display: table-cell; 
-    vertical-align: middle;
 }
 .nav a {
     text-decoration: none;
+}
+img.logo {
+    margin-top: 8px;
+}
+ul.top_higher {
+    position: relative;
+    top: -20px;
 }

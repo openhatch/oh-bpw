@@ -21,8 +21,10 @@ function link_to($path, $name) {
 </head>
 <body>
 	<div id="sidebar">
-  <ul class="nav">
-  <li><img style="width: 75px; height: 43px;" src="images/bpw-logo.png"></li>
+  <ul class="nav inline">
+  <li><a href="./"><img class="logo" style="width: 75px; height: 43px;" src="images/bpw-logo.png"></a></li>
+  </ul>
+  <ul class="nav top_higher">
 		<li><?php link_to('about/', 'about'); ?></li>
 		<li><?php link_to('events/', 'events'); ?></li>
 		<li><?php link_to('thanks/', 'thanks'); ?></li>
