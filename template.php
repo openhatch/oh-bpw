@@ -20,17 +20,18 @@ function link_to($path, $name) {
 
 </head>
 <body>
+	<div id="sidebar">
+  <ul class="nav">
+  <li><img style="width: 75px; height: 43px;" src="images/bpw-logo.png"></li>
+		<li><?php link_to('about/', 'about'); ?></li>
+		<li><?php link_to('events/', 'events'); ?></li>
+		<li><?php link_to('thanks/', 'thanks'); ?></li>
+		<li><?php link_to('press/', 'press'); ?></li>
+		<li><?php link_to('clone-it/', 'run your own'); ?></li>
+		</ul>
+	</div>
 <div id="wrap">
 	<div id="header"><h1><?php echo $page_title; ?></h1></div>
-	<div id="sidebar">
-		<a href="./"><img style="padding-top: 30px; width: 150px; height: 86px; padding-bottom: 30px;" src="images/bpw-logo.png"></a>
-		<h2><?php link_to('about/', 'about'); ?></h2>
-		<h2><?php link_to('events/', 'events'); ?></h2>
-		<p>&nbsp;</p>
-		<h2><?php link_to('thanks/', 'thanks'); ?></h2>
-		<h2><?php link_to('press/', 'press'); ?></h2>
-		<h2><?php link_to('clone-it/', 'run your own'); ?></h2>
-	</div>
 	<div id="main">
 	<?php echo $content; ?>
 	</div>
