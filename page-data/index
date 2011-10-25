@@ -5,7 +5,7 @@ $content = <<<EOD
 
 	  <img style="padding-left: 15px;" src="images/bpw-photo.jpg" width="500" height="333">
 
-	  <p style="font-size: 200%;">a project-driven introduction to Python for women and their friends</p>
+	  <p style="font-size: 200%;">We empower women of all backgrounds to learn practical programming in a beginner-friendly environment.</p>
 
 	  <p><a href="events/">Our next event is planned for November &raquo;</a></p>
 
