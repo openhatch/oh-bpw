@@ -41,3 +41,6 @@ a:hover, a:visited { color: #133755; }
     clear:both;
     background:#cc9;
 }
+.right {
+    text-align: right;
+}
