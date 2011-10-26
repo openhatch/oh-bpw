@@ -14,7 +14,7 @@ a:link, a:visited { color: #356a96; }
 a:hover { color: #133755; }
 
 #wrap {
-    width:750px;
+    max-width:750px;
     margin:0 auto;
 }
 #header {
@@ -29,7 +29,7 @@ a:hover { color: #133755; }
     text-align: center;
 }
 #main {
-    width:800px;
+    max-width:800px;
     background: white;
     padding-top: 60px;
 }
