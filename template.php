@@ -27,7 +27,7 @@ function link_to($path, $name) {
   <ul class="nav top_higher">
 		<li><?php link_to('about/', 'about'); ?></li>
 		<li><?php link_to('events/', 'events'); ?></li>
-		<li><?php link_to('thanks/', 'thanks'); ?></li>
+		<li><?php link_to('thanks/', 'sponsorship'); ?></li>
 		<li><?php link_to('press/', 'press'); ?></li>
 		<li><?php link_to('clone-it/', 'run your own'); ?></li>
 		</ul>

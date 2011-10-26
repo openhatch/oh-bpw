@@ -5,22 +5,9 @@ $content = <<<EOD
 
 <h2>Sponsors</h2>
 
-<p>We go to great lengths to run a professional, welcoming event. That includes providing a sponsored lunch for attendees and letting attendees know that they are part of a large, welcoming professional Python community. We also run wrap-up events so that organizers can discuss what to improve next time.</p>
+<p>We go to great lengths to run a focused, welcoming event. That includes providing a sponsored lunch for attendees and letting attendees know that they are part of a large, welcoming professional Python community. We also run wrap-up events so that organizers can discuss what to improve next time.</p>
 
 <p>This takes time, space, and money. We're grateful to our sponsors so far who have made this possible.</p>
-
-<h2>Food and space</h2>
-
-<ul>
-<li>MIT</li>
-<li>Google</li>
-<li>HubSpot</li>
-<li>Microsoft NERD</li>
-</ul>
-
-<h2>Volunteers and attendees</h2>
-
-<p>The Boston Python Workshop is made possible by a huge crew of volunteers. We want to thank our teaching staff, sponsors, and attendees for letting us make a difference in the programming community.</p>
 
 <h2>Can you or your company contribute?</h2>
 
@@ -28,6 +15,15 @@ $content = <<<EOD
 
 <p>Can you or your company provide support to help us do that?
 <a href="https://openhatch.org/contact/">Get in touch</a>!</p>
+
+<h2>Past sponsors</h2>
+
+<ul>
+<li>MIT</li>
+<li>Google</li>
+<li>HubSpot</li>
+<li>Microsoft NERD</li>
+</ul>
 
 EOD;
 

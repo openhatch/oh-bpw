@@ -15,8 +15,6 @@ $content = <<<EOD
 <li>Inspire other people to run their own introductory workshops and outreach events, and to get more user groups thinking about diversity and outreach.</li>
 </ul>
 
-<p>Asheesh Laroia, Deborah Nicholson, Christine Spang, and Jessica McKellar were inspired by <a href="http://workshops.railsbridge.org/">the RailsBridge workshops</a> and made the first workshop happen as part of OpenHatch's outreach efforts. Jessica is serving as lead organizer for our recent events.</p>
-
 <h2>Results</h2>
 
 <p>The event has resulted in <strong>lasting diversity improvements</strong>
@@ -26,7 +24,9 @@ about 2% of Boston Python attendees were women. Since then, 15% or more of our a
 <p>We've found that our success hinges on integrating attendees into a strong local community. We're
 lucky to have our events be a part of the <a href="http://bostonpython.com/">Boston Python user group</a>.</p>
 
-<h2>About OpenHatch</h2>
+<h2>About our organization</h2>
+
+<p>Asheesh Laroia, Deborah Nicholson, Christine Spang, and Jessica McKellar were inspired by <a href="http://workshops.railsbridge.org/">the RailsBridge workshops</a> and made the first workshop happen as part of OpenHatch's outreach efforts.</p>
 
 <p><a href="https://openhatch.org/">OpenHatch</a> is an open source community aiming to help newcomers find their way into free software projects.
 We organize this event because we believe in bringing more people into open communities, and because
