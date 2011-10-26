@@ -58,3 +58,11 @@ ul.top_higher {
     position: relative;
     top: -20px;
 }
+.join_bospy {
+    text-align: center;
+    font-size: 150%;
+}
+.join_bospy a {
+    border: solid #356a96 1px;
+    padding: 5px;
+}
