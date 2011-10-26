@@ -3,7 +3,7 @@ $page_slug = 'index';
 $page_title = 'Home';
 $content = <<<EOD
 
-	  <img style="margin: -200px 0 0 0; overflow: hidden;" src="images/bpw-photo.jpg" width="800" height="533">
+	  <img src="images/front-page-shot.jpg" height="456" width="800">
 
 	  <p style="font-size: 200%;">We empower women of all backgrounds to learn practical programming in a beginner-friendly environment.</p>
 
