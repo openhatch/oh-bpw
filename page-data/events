@@ -16,17 +16,17 @@ $content = <<<EOD
 <p>The Boston Python Workshop is a 1.5 day project-driven workshop. It consists of two components:</p>
 
 <ul>
-<li>Friday evening: laptop setup</li>
-<li>Saturday morning + afternoon: Python lecture and hands-on, guided project practice</li>
+<li>Friday evening: laptop setup and self-directed tutorial</li>
+<li>Saturday morning + afternoon: interactive lecture and hands-on, guided project practice</li>
 </ul>
 <p>At the end of the workshop, we invite all attendees to Boston Python's monthly project night, where you can continue practicing and learning. Attendees also receive invitations to Boston Python's monthly lecture-style events.</p>
 
 <h2>Volunteers</h2>
 
 <p>These are free events staffed by volunteers from the local programming and open source communities. We work closely with the
-<a href="http://meetup.bostonpython.com/">Boston Python</a>, a large local Python user group. The event is part of the <a href="about/">OpenHatch event series</a>.</p>
+<a href="http://meetup.bostonpython.com/">Boston Python</a> user group. The event is part of the <a href="http://openhatch.org/wiki/Events">OpenHatch event series</a>.</p>
 
-<p>You can join us! If you want to be friendly to new programmers -- even if you're not yet an experienced programmer -- email our staff list: <a href="mailto:bpw-staff@lists.openhatch.org">bpw-staff@lists.openhatch.org</a>.</p>
+<p>You can join us! If you want to help beginning programmers&mdash;even if you're not yet an experienced programmer&mdash;email our staff list: <a href="mailto:bpw-staff@lists.openhatch.org">bpw-staff@lists.openhatch.org</a>.</p>
 
 <h2>In photos</h2>
 
@@ -34,7 +34,7 @@ $content = <<<EOD
 
 <h2>Past events</h2>
 
-<p>You can read about our previous curricula at the <a href="https://openhatch.org/wiki/Boston_Python_Workshop/archive">archive page within our wiki</a>.</p>
+<p>You can read about our previous events and browse curricula and photos from the <a href="https://openhatch.org/wiki/Boston_Python_Workshop/archive">archive page within our wiki</a>.</p>
 
 EOD;
 
