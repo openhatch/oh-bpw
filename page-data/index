@@ -3,11 +3,22 @@ $page_slug = 'index';
 $page_title = 'Home';
 $content = <<<EOD
 
-	  <img src="images/front-page-shot.jpg" height="456" width="800">
+	  <div id="front_image_body">
+	  <div style="float: left; width: 450px;">
+	  <img class="front_image" src="images/bpw_group_2.jpg" width="450px">
+	  <img class="front_image" src="images/bpw_group.jpg" width="450px">
+	  </div>
 
-	  <p style="font-size: 200%;">We empower women of all backgrounds to learn practical programming in a beginner-friendly environment.</p>
+	  <div id="front_image_right">
+	  <img class="front_image" src="images/bpw_lecture.jpg" width="167px">
+	  </div>
+
+	  <p style="font-size: 200%; margin-bottom: -10px; clear: both;">We empower women of all backgrounds to learn practical programming in a beginner-friendly environment.</p>
 
 	  <p class="right"><a href="events/">Read about our next workshop &raquo;</a></p>
+          </div>
+
+
 
 EOD;
 

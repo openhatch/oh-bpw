@@ -66,3 +66,15 @@ ul.top_higher {
     border: solid #356a96 1px;
     padding: 5px;
 }
+#front_image_body {
+    width: 628px;
+    align: center;
+    margin: 0 auto;
+}
+#front_image_right {
+    float: right;
+    width: 167px;
+}
+.front_image {
+    padding: 3px;
+}
