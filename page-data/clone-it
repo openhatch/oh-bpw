@@ -20,7 +20,7 @@ $content = <<<EOD
 
 <h2>How the event has spread</h2>
 
-<p>Since Asheesh <a href="http://python.mirocommunity.org/video/4259/pycon-2011-get-new-contributor">spoke about the effort at PyCon 2011</a>, people around the world have started efforts inspired by ours. We've:</p>
+<p>Since we <a href="http://python.mirocommunity.org/video/4259/pycon-2011-get-new-contributor">spoke about the effort at PyCon 2011</a>, people around the world have started efforts inspired by ours. We've:</p>
 
 <ul>
 <li>Inspired <a href="http://pystar.org/">PyStar</a> to form and organize outreach events</li>
