@@ -34,7 +34,7 @@ $content = <<<EOD
 
 <p>We encourage you to re-use the workshop's teaching materials. Our laptop setup instructions are battle-tested instructions for installing Python on Windows, Mac, and Linux systems. Our lecture material introduces basic concepts, and our projects provide hands-on learning. The material is available for re-use under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons by-sa license</a>.</p>
 
-<p>To find the materials, go to the <a href="events/">list of past events</a> and find the most recent workshop. Each workshop links to the materials we used.</p>
+<p>To find the materials, go to our <a href="https://openhatch.org/wiki/Boston_Python_Workshop/archive">event archives</a> and find the most recent workshop. Each workshop links to the materials we used.</p>
 
 <h2>Get in touch</h2>
 
