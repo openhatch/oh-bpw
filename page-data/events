@@ -30,7 +30,14 @@ $content = <<<EOD
 
 <h2>In photos</h2>
 
-<p>The Boston Python Workshop <a href="http://www.flickr.com/photos/bostonpythonworkshop/">photo stream</a> contains lots of photos from the events.</p>
+<object width="600" height="450">
+    <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fbostonpythonworkshop%2Fsets%2F72157627946187205%2Fshow%2F&page_show_back_url=%2Fphotos%2Fbostonpythonworkshop%2Fsets%2F72157627946187205%2F&set_id=72157627946187205&jump_to="></param>
+    <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=109615"></param>
+    <param name="allowFullScreen" value="true"></param>
+    <embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=109615" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fbostonpythonworkshop%2Fsets%2F72157627946187205%2Fshow%2F&page_show_back_url=%2Fphotos%2Fbostonpythonworkshop%2Fsets%2F72157627946187205%2F&set_id=72157627946187205&jump_to=" width="600" height="450"></embed>
+</object>
+
+<p>The Boston Python Workshop <a href="http://www.flickr.com/photos/bostonpythonworkshop/">photo stream</a> contains tons more photos from the events.</p>
 
 <h2>Past events</h2>
 
