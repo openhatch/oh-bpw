@@ -30,7 +30,7 @@ $content = <<<EOD
 
 <h2>In photos</h2>
 
-<p>Asheesh's Flickr <a href="http://www.flickr.com/photos/paulproteus/sets/">contains lots of photos</a> from the events.</p>
+<p>The Boston Python Workshop <a href="http://www.flickr.com/photos/bostonpythonworkshop/">photo stream</a> contains lots of photos from the events.</p>
 
 <h2>Past events</h2>
 
