@@ -13,7 +13,7 @@ $content = <<<EOD
 	  <img class="front_image" src="images/bpw_lecture.jpg" width="167px">
 	  </div>
 
-	  <p style="font-size: 200%; margin-bottom: -10px; clear: both;">We empower women of all backgrounds to learn practical programming in a beginner-friendly environment.</p>
+	  <p style="font-size: 200%; padding-top: .5em; margin-bottom: -10px; clear: both;">We empower women of all backgrounds to learn practical programming in a beginner-friendly environment.</p>
 
 	  <p class="right"><a href="events/">Read about our next workshop &raquo;</a></p>
           </div>
