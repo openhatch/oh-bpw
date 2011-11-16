@@ -14,24 +14,28 @@ a:link, a:visited { color: #356a96; }
 a:hover { color: #133755; }
 
 #wrap {
-    max-width:800px;
+    max-width: 628px;
     margin:0 auto;
 }
 #header {
     background:#ddd;
     display: none;
 }
-#sidebar {
+#topbar {
     width: 100%;
-    height: 60px;
+    height: 70px;
     background:white;
     position: fixed;
-    text-align: center;
+}
+#topnav {
+    width: 628px;
+    margin: 0 auto;
+    border-bottom: 1px solid #ccc;
 }
 #main {
-    max-width:800px;
+    max-width: 628px;
     background: white;
-    padding-top: 60px;
+    padding-top: 80px;
 }
 #footer {
     clear:both;
@@ -42,6 +46,7 @@ a:hover { color: #133755; }
 }
 ul.nav {
     display: inline;
+    padding-left: 0px;
 }
 .nav li {
     color: #fff;
@@ -79,5 +84,5 @@ ul.top_higher {
 .front_image {
     display: block;
     margin: 0;
-    padding: 5px;
+    padding: 0;
 }

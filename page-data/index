@@ -5,8 +5,8 @@ $content = <<<EOD
 
 	  <div id="front_image_body">
 	  <div style="float: left; width: 450px;">
-	  <img class="front_image" src="images/bpw_group_2.jpg" width="450px">
-	  <img class="front_image" src="images/bpw_group.jpg" width="450px">
+	  <img class="front_image" src="images/bpw_group_2.jpg" style="width: 450px; padding: 0 10px 10px 0;">
+	  <img class="front_image" src="images/bpw_group.jpg" style="width: 450px;">
 	  </div>
 
 	  <div id="front_image_right">

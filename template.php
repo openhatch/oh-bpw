@@ -20,7 +20,8 @@ function link_to($path, $name) {
 
 </head>
 <body>
-	<div id="sidebar">
+	<div id="topbar">
+    <div id="topnav">
   <ul class="nav inline">
   <li><a href="./"><img class="logo" style="width: 75px; height: 43px;" src="images/bpw-logo.png"></a></li>
   </ul>
@@ -32,6 +33,7 @@ function link_to($path, $name) {
 		<li><?php link_to('clone-it/', 'run your own'); ?></li>
 		</ul>
 	</div>
+</div>
 <div id="wrap">
 	<div id="header"><h1><?php echo $page_title; ?></h1></div>
 	<div id="main">
