@@ -1,7 +1,7 @@
 all: public/index.html public/about/index.html public/events/index.html public/press/index.html public/clone-it/index.html public/thanks/index.html
 
 clean:
-	@rm public/*.html public/*/*.html
+	@rm -f public/*.html public/*/*.html
 
 public/index.html: template.php page-data/index
 	php page-data/index > public/index.html
