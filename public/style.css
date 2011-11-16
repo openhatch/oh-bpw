@@ -76,5 +76,7 @@ ul.top_higher {
     width: 167px;
 }
 .front_image {
-    padding: 3px;
+    display: block;
+    margin: 0;
+    padding: 5px;
 }
