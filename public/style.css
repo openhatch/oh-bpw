@@ -53,6 +53,7 @@ ul.nav {
 }
 img.logo {
     margin-top: 8px;
+    border: none;
 }
 ul.top_higher {
     position: relative;
