@@ -23,19 +23,18 @@ a:hover { color: #133755; }
 }
 #topbar {
     width: 100%;
-    height: 70px;
+    height: 60px;
     background:white;
     position: fixed;
 }
 #topnav {
     width: 628px;
     margin: 0 auto;
-    border-bottom: 1px solid #ccc;
 }
 #main {
     max-width: 628px;
     background: white;
-    padding-top: 80px;
+    padding-top: 70px;
 }
 #footer {
     clear:both;
