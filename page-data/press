@@ -8,6 +8,7 @@ $content = <<<EOD
 <p>We're honored to have been mentioned across the web:</p>
 
 <ul>
+<li>December 2011: <a href="http://trishofalltrades.tumblr.com/post/14496033030/boston-python-workshop-for-n00bs">Boston Python Workshop for n00bs</a>, a write-up on the 5th Boston Python Workshop by attendee Trish Fontanilla</li>
 <li>November 2011: <a href="http://pyfound.blogspot.com/2011/11/boston-python-workshop-psf-grant.html">Boston Python Workshop PSF Grant</a> at Python Software Foundation News</li>
 <li>October 2011: <a href="http://blogs.gnome.org/marina/2011/10/08/my-ada-lovelace-day-heroines/">My Ada Lovelace Day Heroines</a> at Marina'z Blog</li>
 <li>July 2011: <a href="http://geekfeminism.org/2011/07/02/lessons-learned-from-the-boston-python-workshop-an-outreach-event-for-women/">Lessons learned from the Boston Python Workshop, an outreach event for women</a> on Geek Feminism</li>
