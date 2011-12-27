@@ -19,6 +19,7 @@ $content = <<<EOD
 <h2>Past sponsors</h2>
 
 <ul>
+<li>The <a href="http://python.org/psf/">Python Software Foundation</a></li>
 <li>MIT</li>
 <li>Google</li>
 <li>HubSpot</li>
