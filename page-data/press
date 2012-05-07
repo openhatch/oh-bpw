@@ -8,6 +8,7 @@ $content = <<<EOD
 <p>We're honored to have been mentioned across the web:</p>
 
 <ul>
+<li>March 2012: <a href="https://openhatch.org/blog/2012/the-boston-python-workshop-at-pycon-2012/">Diversity in practice: How the Boston Python user group grew to 1700 people and over 15% women</a>, a PyCon 2012 talk by Jessica McKellar and Asheesh Laroia</li>
 <li>February 2012: <a href="http://www.women2.org/the-power-of-cooperative-outreach-diversifying-pycon/">Diversifying PyCon: the power of cooperative outreach</a>, the story of the Boston Python Workshop and other outreach events working together to get a woman named Pam attending PyCon for the first time, at Women 2.0</li>
 <li>December 2011: <a href="http://trishofalltrades.tumblr.com/post/14496033030/boston-python-workshop-for-n00bs">Boston Python Workshop for n00bs</a>, a write-up on the 5th Boston Python Workshop by attendee Trish Fontanilla</li>
 <li>November 2011: <a href="http://pyfound.blogspot.com/2011/11/boston-python-workshop-psf-grant.html">Boston Python Workshop PSF Grant</a> at Python Software Foundation News</li>
