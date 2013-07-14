@@ -17,9 +17,11 @@ $content = <<<EOD
 
 <h2>Results</h2>
 
-<p>The event has resulted in <strong>lasting diversity improvements</strong>
-for the Boston Python user group. In January 2011, when we began organizing the event,
-about 2% of Boston Python attendees were women. Since then, 15% or more of our attendees are women. The group's membership has grown to over 1500 people, making it the largest Python user group in the US.</p>
+<p>The event has resulted in <strong>lasting diversity improvements</strong> for
+the Boston Python user group. In January 2011, when we began organizing the
+event, about 2% of Boston Python attendees were women. Since then, 15% or more
+of our attendees are women. The group's membership has grown to over 3500
+people, making it the largest Python user group in the US.</p>
 
 <p>We've found that our success hinges on integrating attendees into a strong local community. We're
 lucky to have our events be a part of the <a href="http://bostonpython.com/">Boston Python user group</a>.</p>
